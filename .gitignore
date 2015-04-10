@@ -1,0 +1,7 @@
+# Files
+*.kdev4
+
+# Other files and folders
+.settings/
+.kdev4/
+
